@@ -1,0 +1,12 @@
+# Environment secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Runtime data
+data/
+*.sqlite3
